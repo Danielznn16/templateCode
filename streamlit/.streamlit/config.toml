@@ -1,0 +1,11 @@
+[server]
+port = 8501
+baseUrlPath = "/infiagent/"
+runOnSave=true
+
+[browser]
+serverAddress="36.103.203.47"
+serverPort=64512
+
+[theme]
+primaryColor="DeepSkyBlue"
